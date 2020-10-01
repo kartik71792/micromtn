@@ -1,4 +1,4 @@
-Logr
+Logr - A Boundless Project
 ====
  - - -
 
